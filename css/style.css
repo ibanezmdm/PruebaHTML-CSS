@@ -1,0 +1,39 @@
+.color1 {
+	background:olive;
+}
+
+.logos {
+	max-height:70px;
+}
+
+.logo1mes {
+	max-height:50px;
+	position:absolute;
+	top:55px;
+	left:20px;
+}
+
+.footer {
+	position:fixed;
+	bottom:0;
+	z-index:10000;
+}
+
+.hacker {
+	padding-bottom: 100px;
+}
+
+.head {
+	background-color:#4682B4;
+	color:white;
+}
+
+.pad {
+	#background-color:#ADFF2F;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+.logo-footer {
+	max-height:50px;
+}
